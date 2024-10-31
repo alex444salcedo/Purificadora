@@ -97,18 +97,9 @@ nav {
     background-color: #0056b3; /* Un tono más oscuro para hover */
 }
 
-
-
-
-
-
-
-
-
-
 /* Hero Section */
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/img/fondo3.gif');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/fondo3.gif');
     background-size: cover;
     background-position: center;
     height: 100vh;
